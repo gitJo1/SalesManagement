@@ -1,0 +1,2 @@
+C:\Users\PC\Documents\git\SalesManagement\SMStartUp\bin\Debug\SMStartUp.exe.config
+C:\Users\PC\Documents\git\SalesManagement\bin\Debug\SMStartUp.exe.config
